@@ -112,3 +112,4 @@ service-worker: true
 # ]
 
 theme: jekyll-theme-slate
+excerpt_separator: "<!-- more -->"
