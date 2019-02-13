@@ -114,4 +114,4 @@ service-worker: true
 theme: jekyll-theme-slate
 excerpt_separator: "<!-- more -->"
 # 固定链接
-permalink: /:categories/:year/:month/:day/:title 
+# permalink: /:categories/:year/:month/:day/:title 
