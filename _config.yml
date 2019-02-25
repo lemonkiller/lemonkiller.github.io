@@ -60,8 +60,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 75a9f5264b3225ed7af3                            #生成的clientID
-  clientSecret: 2e18fdb6e07d4bc3808e6e037e6295e1cf2ff1cd    #生成的clientSecret
+  clientID: 8602e1239a2329722cf0                            #生成的clientID
+  clientSecret: 9e9f9ac8213f2d1227f91bbaad9c34e8fbb42b55    #生成的clientSecret
   repo: lemonkiller.github.io    #仓库名称
   owner: lemonkiller    #github用户名
   admin: lemonkiller
